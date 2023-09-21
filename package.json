@@ -1,0 +1,25 @@
+{
+  "name": "goldman-sachs-sass",
+  "version": "1.0.0",
+  "description": "Goldman Sachs's design system developed in SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balajisr/gs-design-system-scss.git"
+  },
+  "keywords": [
+    "design-system"
+  ],
+  "author": "Balaji Rajendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balajisr/gs-design-system-scss/issues"
+  },
+  "homepage": "https://github.com/balajisr/gs-design-system-scss#readme",
+  "devDependencies": {
+    "sass": "^1.68.0"
+  }
+}
