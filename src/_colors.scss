@@ -1,0 +1,181 @@
+/*** All Hues & Values ***/
+/* Gray */
+$gray-100: #FFFFFF;
+$gray-90: #1C2B36;
+$gray-80: #2A3F4D;
+$gray-70: #3E5463;
+$gray-60: #5B7282;
+$gray-50: #7A909E;
+$gray-40: #9FB1BD;
+$gray-30: #C1CCD6;
+$gray-20: #DCE3E8;
+$gray-10: #F2F5F7;
+
+/* Red */
+$red-100: #24120C;
+$red-90: #4F150F;
+$red-80: #75160C;
+$red-70: #A1160A;
+$red-60: #D91F11;
+$red-50: #FA5343;
+$red-40: #FC9086;
+$red-30: #FABBB4;
+$red-20: #FADCD9;
+$red-10: #FCF3F2;
+
+/* Orange */
+$orange-100: #1F1410;
+$orange-90: #402117;
+$orange-80: #632B17;
+$orange-70: #8F3415;
+$orange-60: #BF4815;
+$orange-50: #E86427;
+$orange-40: #FC9162;
+$orange-30: #FCBC97;
+$orange-20: #FCDDC7;
+$orange-10: #FCF2EB;
+
+/* Yellow */
+$yellow-100: #1C1613;
+$yellow-90: #38251B;
+$yellow-80: #54341F;
+$yellow-70: #70491C;
+$yellow-60: #946613;
+$yellow-50: #B3870E;
+$yellow-40: #D9A514;
+$yellow-30: #F5C518;
+$yellow-20: #F7E379;
+$yellow-10: #FAF6CF;
+
+/* Lime */
+$lime-100: #121A0D;
+$lime-90: #1C2E10;
+$lime-80: #254211;
+$lime-70: #2E5C0E;
+$lime-60: #3C7D0E;
+$lime-50: #52A31D;
+$lime-40: #78BF39;
+$lime-30: #AAD971;
+$lime-20: #D5F0B1;
+$lime-10: #EBF7DA;
+
+/* Green */
+$green-100: #081A15;
+$green-90: #092E25;
+$green-80: #094536;
+$green-70: #075E45;
+$green-60: #077D55;
+$green-50: #16A163;
+$green-40: #43C478;
+$green-30: #88DBA8;
+$green-20: #C7EBD1;
+$green-10: #EBF7ED;
+
+/* Teal */
+$teal-100: #0C1A19;
+$teal-90: #102E2D;
+$teal-80: #124241;
+$teal-70: #155C5E;
+$teal-60: #167B7D;
+$teal-50: #279C9C;
+$teal-40: #4EBFB9;
+$teal-30: #86D9D4;
+$teal-20: #BEEBE7;
+$teal-10: #EBF5F4;
+
+/* Turquoise */
+$turquoise-100: #0F181A;
+$turquoise-90: #102D33;
+$turquoise-80: #0C424D;
+$turquoise-70: #09596B;
+$turquoise-60: #067A91;
+$turquoise-50: #159AB3;
+$turquoise-40: #45BCD1;
+$turquoise-30: #81D8E6;
+$turquoise-20: #C7E8ED;
+$turquoise-10: #EBF5F4;
+
+/* Aqua */
+$aqua-100: #0B1724;
+$aqua-90: #0C2B45;
+$aqua-80: #0E3D66;
+$aqua-70: #08548A;
+$aqua-60: #0073BA;
+$aqua-50: #1195D6;
+$aqua-40: #48B8F0;
+$aqua-30: #8BD3F7;
+$aqua-20: #C9E7F5;
+$aqua-10: #EBF3F7;
+
+/* Blue */
+$blue-100: #0D1826;
+$blue-90: #11294D;
+$blue-80: #103A75;
+$blue-70: #0D4EA6;
+$blue-60: #186ADE;
+$blue-50: #3D8DF5;
+$blue-40: #75B1FF;
+$blue-30: #ADCCF7;
+$blue-20: #D4E4FA;
+$blue-10: #F0F4FA;
+
+/* Ultramarine */
+$ultramarine-100: #141429;
+$ultramarine-90: #23254D;
+$ultramarine-80: #2F337D;
+$ultramarine-70: #3A45B0;
+$ultramarine-60: #545FE8;
+$ultramarine-50: #7681FC;
+$ultramarine-40: #A0A7FA;
+$ultramarine-30: #C2C7FC;
+$ultramarine-20: #DEE0FA;
+$ultramarine-10: #F2F3FA;
+
+/* Purple */
+$purple-100: #1C1229;
+$purple-90: #331F4D;
+$purple-80: #4C277D;
+$purple-70: #6B30AB;
+$purple-60: #8F49DE;
+$purple-50: #AC71F0;
+$purple-40: #C89AFC;
+$purple-30: #DABEFA;
+$purple-20: #EADCFC;
+$purple-10: #F7F2FC;
+
+/* Pink */
+$pink-100: #241020;
+$pink-90: #47153F;
+$pink-80: #6B155A;
+$pink-70: #961574;
+$pink-60: #CC1D92;
+$pink-50: #ED4CB7;
+$pink-40: #FA87D4;
+$pink-30: #F7B7E2;
+$pink-20: #F7DAED;
+$pink-10: #FCF0F8;
+
+/*** Brand Color ***/
+$primary-blue: #7399C6;
+
+/*** Color Palette ***/
+/* Action Blue */
+$action-blue: $blue-60;
+
+/* Functional Colors */
+$success: $green-60;
+$warning-yellow: $yellow-30;
+$warning-orange: $orange-50;
+$error: $red-60;
+
+/* Chart colors */
+$chart-1: $blue-70;
+$chart-2: $orange-50;
+$chart-3: $teal-50;
+$chart-4: $yellow-40;
+$chart-5: $purple-50;
+$chart-6: $ultramarine-90;
+$chart-7: $lime-50;
+$chart-8: $pink-60;
+$chart-9: $aqua-40;
+$chart-10: $green-60;
